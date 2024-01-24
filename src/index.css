@@ -17,6 +17,7 @@ ol, ul {
   margin-bottom: 10px;
 }
 
+
 .square {
   background: #fff;
   border: 1px solid #999;
@@ -40,6 +41,8 @@ ol, ul {
   background: #ddd;
 }
 
+
+
 .game {
   display: flex;
   flex-direction: row;
@@ -47,4 +50,5 @@ ol, ul {
 
 .game-info {
   margin-left: 20px;
-}
+} 
+
